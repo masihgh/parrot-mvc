@@ -1,0 +1,18 @@
+{
+    "autoload": {
+        "psr-4": {
+            "Core\\": "Core",
+            "App\\": "App"
+        }
+    },
+    "require-dev": {
+        "symfony/var-dumper": "^5.4"
+    },
+    "require": {
+        "smarty/smarty": "^4.0",
+        "filp/whoops": "^2.14",
+        "twig/twig": "^3.0",
+        "bramus/router": "~1.5",
+        "automattic/woocommerce": "^3.0"
+    }
+}
