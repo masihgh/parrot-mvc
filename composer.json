@@ -15,7 +15,7 @@
         "bramus/router": "~1.5",
     }
 	"name" : "Parrot MVC",
-	"description" : "a very useful php mvc framework",
+	"description" : "a very useful php mvc framework!",
 	"authors" : [{
 			"name" : "masih ghaznavi",
 			"homepage" : "https://masihgh.ir",
